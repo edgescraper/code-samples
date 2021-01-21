@@ -1,0 +1,1 @@
+curl "https://api.edgescraper.com/scrape?key={{apiKey}}&url=http://samples.edgescraper.com/traversal/"
